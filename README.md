@@ -6,11 +6,12 @@
 
 **Methods:**  This was on on-line tutorial available through Youtube.
 
-**Ref.**      Author:     Neilson, T.
-              Title:      "Getting Started with Jekyll, The Static Site Generator".
-              Link:       https://www.youtube.com/watch?v=iWowJBRMtpc.
-              Published:  Jun 2, 2014.
-              Runttime:   15:02 min
+**Ref.**      
++ Author:     Neilson, T.
++ Title:      "Getting Started with Jekyll, The Static Site Generator".
++ Link:       https://www.youtube.com/watch?v=iWowJBRMtpc.
++ Published:  Jun 2, 2014.
++ Runttime:   15:02 min
 **Results:**  I learned the following:
         + Basic setup
         + Basic architecture of Jekyll website
